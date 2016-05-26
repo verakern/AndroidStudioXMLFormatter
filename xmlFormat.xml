@@ -82,7 +82,7 @@
           <rule>
             <match>
               <AND>
-                <NAME>xmlns:a</NAME>
+                <NAME>xmlns:android</NAME>
                 <XML_NAMESPACE>^$</XML_NAMESPACE>
               </AND>
             </match>
