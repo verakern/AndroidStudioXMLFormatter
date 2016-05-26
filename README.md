@@ -15,7 +15,7 @@ Those are:
 9) background<br />
 10) orientation<br />
 11) visibility<br />
-12)elevation<br />
+12) elevation<br />
 13) all other name space attributes, sorted alphabetically<br />
 
 If you want to use it you can import it in Android Studio 2.2 Preview 1 and higher by opening the Preferences (Command + ,), then going to Editor -> Code Style -> XML. Click the "Manage..." button and use the import feature.
