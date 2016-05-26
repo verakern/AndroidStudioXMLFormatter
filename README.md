@@ -3,20 +3,20 @@ A formatter for xml files in Android. Currently only rules for for layout files 
 
 This formatter expresses rules for formatting Android xml layout files according to my personal preferences.
 Those are:
-- root element has all xmlns, sorted alphabetically
-1) id
-2) style
-3) layout_width
-4) layout_height
-5) layout_weight
-6) all other layout_* attributes
-7) all other attributes except what appears below
-8) text attributes (textColor, etc.) with the actual text last
-9) background
-10) orientation
-11) visibility
-12)elevation
-13) all other name space attributes, sorted alphabetically
+- root element has all xmlns, sorted alphabetically<br />
+1) id<br />
+2) style<br />
+3) layout_width<br />
+4) layout_height<br />
+5) layout_weight<br />
+6) all other layout_* attributes<br />
+7) all other attributes except what appears below<br />
+8) text attributes (textColor, etc.) with the actual text last<br />
+9) background<br />
+10) orientation<br />
+11) visibility<br />
+12)elevation<br />
+13) all other name space attributes, sorted alphabetically<br />
 
 If you want to use it you can import it in Android Studio 2.2 Preview 1 and higher by opening the Preferences (Command + ,), then going to Editor -> Code Style -> XML. Click the "Manage..." button and use the import feature.
 
